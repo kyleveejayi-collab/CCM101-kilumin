@@ -41,3 +41,14 @@ Amazon EC2
 Amazon S3
 Elastic Load Balancing
 
+
+| Business Requirement    | Recommended Platform | Justification                                |
+| ----------------------- | -------------------- | -------------------------------------------- |
+| Startup Company         | GCP  | Affordable    |
+| Enterprise Organization | AWS  | Offers many services    |
+| Microsoft Environment   | Azure   | Works well with Microsoft products.|
+| AI / Machine Learning   | GCP    | Has strong AI and ML tools.   |
+| Kubernetes Deployment   | GCP  | Created Kubernetes           |
+| Global Web Application  | AWS  | Has a large global network and auto-scaling. |
+
+
