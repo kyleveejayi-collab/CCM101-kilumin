@@ -28,6 +28,9 @@ GCP is strong in AI, machine learning, and Kubernetes. Google also created Kuber
 
 I choose Google cloud platform becausee, It provides more useful tools for developers and organizations. I  also think na helpful or useful it for the developers.
 
+
+## Match the Cloud Services
+
 | Service Category    | AWS        | Azure                          | GCP                            |
 | ------------------- | ---------- | ------------------------------ | ------------------------------ |
 | Virtual Machine     | Amazon EC2 | Azure Virtual Machines         | Compute Engine                 |
