@@ -1,1 +1,9 @@
+## Mission Reflection
 
+While doing our lab, the Google Cloud Platform stood out to me the most due to its excellent offering of artificial intelligence, machine learning, data analytics, and Kubernetes solutions, among others. The cloud providers’ offer similar services and solutions to end-users. Therefore, apart from the slight differences already mentioned, AWS, Azure, and GCP are more or less comparable. All three providers offer infrastructure, platform, security, operations, and networking solutions. Moreover, the three cloud providers enable organizations to scale their systems according to their needs and utilize virtual machines to run applications and operating systems of their choice.
+
+Organizations’ requirements dictate which cloud provider to choose. For instance, a small start-agency with limited capital might prefer AWS over Azure or GCP. On the other hand, a company involved in AI and machine learning applications would prefer GCP solutions. Finally, for large multinational organizations, AWS would be the most appropriate cloud provider as it offers the best solutions for diverse infrastructural needs.
+
+Working as a Cloud Solutions Consultant was an eye-opener for me since I realized that cloud adoption requires careful evaluation of a client’s budget, existing ecosystem, expectations, and objectives, among other factors. It is not enough to simply recommend clients to adopt one cloud provider over the others without first understanding their needs. In addition, the exercise of comparing the three cloud providers was insightful as it helped me realize that each provider has its own strengths and weaknesses.
+
+So I think, the completion of the GitHub cloud computing portfolio was a stressfull experience for me bcuz  It is new too me but as it allowed me to practice my technical skills while at the same time improving my markdown and documentation skills. Therefore, this lab 3 was a way in enhancing my cloud computing skills.
