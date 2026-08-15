@@ -21,4 +21,4 @@ Agent Toolkit for AWS provides up-to-date documentation, tested procedures, and 
 3. Increase internal collaboration and innovation through a curated cloud knowledge resource. 
 
 ## Typical Enterprise Use Cases
--
+- An event is designed to process live feed from a specific source. Periodically, the live feed should be replaced by file content. Then the same live feed should be resumed.
