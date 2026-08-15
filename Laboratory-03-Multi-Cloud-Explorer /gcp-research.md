@@ -1,4 +1,4 @@
-# [Platform Name] Research
+# Google Cloud Platform Research
 
 ## Brief Overview
 GCP is a cloud computing platform developed by Google. Provides cloud services like computing, storage, databases, networking, artificial intelligence, and data analytics. 
